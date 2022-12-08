@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\solet\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\solet\\.nuget\\packages"
+    ]
+  }
+}
